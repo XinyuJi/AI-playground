@@ -1,0 +1,8 @@
+requests
+google-genai
+python-dotenv
+tqdm
+sentence-transformers
+scikit-learn
+numpy<2
+matplotlib
