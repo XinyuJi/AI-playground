@@ -1,2 +1,9 @@
 pip install -r requirements.txt
 source .venv/bin/activate
+
+-----------
+you need to create .env file
+GEMINI_API_KEY=AIzaSyBu6i9ySwG6ZWA3VIbtCJAbRxNlBQe87W4
+PROMPT_FILE_PATH=prompts_explain.txt
+PROMPT1_FILE_PATH=prompts.txt
+CSV_FILE_PATH=test2.csv
